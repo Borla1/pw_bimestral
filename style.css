@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+*{  margin: 0%;
+    padding: 0%;
+    font-family: 'Source Code Pro', monospace;
+}
+html{
+    background-color: #252525; 
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+
+@media (max-width: 426px) {
+   body{
+    background-color: #252525;
+   }
+     .começo{
+        background-color: #252525;
+        height: 150px;
+        color: #ffffff;
+     
+   }
+.titulo{
+    margin: 0px 0px 0px 15px ;
+}
+.busca{
+    display: inline-flex;
+    text-align: center;
+    border-radius: 10px;
+    float:right;
+    color: #ffffff;
+    background-color: transparent;
+    border: 0
+    
+}
+.aba{
+    margin-left: 30%;
+    margin-top: 80px;
+    display: inline-flex;
+}
+.lupa{
+    height: 15px;
+    width: 15px;
+    float: right;
+    display: inline-flex;
+    margin-right: 25px;
+}
+
+    .meio{
+        background-color: #2c2c2c;
+        height: 632px;
+   }
+   
+.video1{
+    height: 157px;
+    display: inline-flex;
+    font-family: 'Source Code Pro', monospace;
+    color: #cacaca;
+
+}
+.caze{
+   margin: 5px 0px 0px 5px;
+    height: 157px;
+    width: 298px;
+}
+.video2{
+  
+    height: 157px;
+    display: inline-flex;
+    font-family: 'Source Code Pro', monospace;
+    color: #cacaca;
+}
+.neymar{
+    margin: 0% 0px 0px 5px;
+    height: 157px;
+    width: 298px;
+}
+.video3{
+    height: 157px;
+    display: inline-flex;
+    font-family: 'Source Code Pro', monospace;
+    color: #cacaca;
+}
+.felca{
+    margin: 0% 0px 0px 5px;
+    height: 157px;
+    width: 298px;
+}
+.video4{
+    height: 157px;
+    display: inline-flex;
+    font-family: 'Source Code Pro', monospace;
+    color: #cacaca;
+}
+.pumapjl{
+    margin: 0% 0px 0px 5px;
+    height: 145px;
+   
+}
+    .fim{
+display: inline-flex;
+     background-color: #252525;        
+        height: 100px;
+        color: #ffffff;
+        align-self: center;
+}
+.coraçao{
+    margin-left: 15px;
+    width: 30px;
+    height: 30px;
+}
+.bussola{
+    margin-left: 15px;
+    width: 30px;
+    height: 30px;
+}
+.trofeu{
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+}
+.pessoa{
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.ultimo{
+    margin: 20px 20px 20px 20px;
+}
+
+}
